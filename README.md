@@ -16,12 +16,12 @@
 
 | Nombre          | Apellido            | GitHub                                                | Comision |
 |-----------------|---------------------|-------------------------------------------------------|----------|
-| Alejandro       | Moreno              | [MoCAlejandro](https://github.com/MoCAlejandro)       |   -      |
-| Axel Ezequiel   | Montivero           | [Ezmant](https://github.com/Ezmant)                   |   -      |
-| Fabiana Jazmin  |  Amato              | [AmatoJazmin](https://github.com/AmatoJazmin)         |   -      |
-| Juan Diego      | González Antoniazzi | [JDGA1997](https://github.com/JDGA1997)               |   -      |
-| Melanie         | Reyes               | [MelanieR24](https://github.com/MelanieR24)           |   -      |
-| Nicolás         |     Mattos          | [NicolasMattos03](https://github.com/NicolasMattos03) |   -      |
+| Alejandro       | Moreno              | [MoCAlejandro](https://github.com/MoCAlejandro)       |   2      |
+| Axel Ezequiel   | Montivero           | [Ezmant](https://github.com/Ezmant)                   |   2      |
+| Fabiana Jazmin  |  Amato              | [AmatoJazmin](https://github.com/AmatoJazmin)         |   1      |
+| Juan Diego      | González Antoniazzi | [JDGA1997](https://github.com/JDGA1997)               |   2      |
+| Melanie         | Reyes               | [MelanieR24](https://github.com/MelanieR24)           |   3      |
+| Nicolás         |     Mattos          | [NicolasMattos03](https://github.com/NicolasMattos03) |   2      |
 
 
 <br>
@@ -62,14 +62,14 @@
 
 ### Más de ASPRA
 
-- ### [Documento IEEE830]()
+- ### [Documento IEEE830](https://docs.google.com/document/d/1yoGYpTMU1NPqZDSuM2iEQeQGeHVx1eCX/edit?usp=sharing&ouid=103416615054896105402&rtpof=true&sd=true)
 
-- ### [Wiki]()
+- ### [Wiki](https://github.com/AS-PR-A/ASPRA/wiki)
 
-- ### [Tablero Kanban]()
+- ### [Tablero Kanban](https://github.com/orgs/AS-PR-A/projects/1/views/1)
 
-- ### [Milestones]()
+- ### [Milestones](https://github.com/AS-PR-A/ASPRA/milestones)
 
-- ### [Issues]()
+- ### [Issues](https://github.com/AS-PR-A/ASPRA/issues)
 
-- ### [Sprint 0]()
+- ### [Sprint 0](https://github.com/AS-PR-A/ASPRA/milestone/1)
