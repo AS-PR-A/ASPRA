@@ -6,9 +6,9 @@
 
 <br>
 
-## ⏮️[Repositorio ASPRA WEB](https://github.com/Ezmant/Proyecto_FullStack_ISPC)⏮️
+## ⏮️[Repositorio ASPRA WEB](https://github.com/AS-PR-A/ASPRA-Web)⏮️
 
-## ⏮️[Repositorio ASPRA Movil](https://github.com/JDGA1997/ASPRA-Movil)⏮️
+## ⏮️[Repositorio ASPRA Movil](https://github.com/AS-PR-A/ASPRA-Movil)⏮️
 
 <br>
 
@@ -25,8 +25,6 @@
 
 
 <br>
-
-## Diseños finalizados
 
 ## Pagina Web 💻🖥️
 
@@ -52,7 +50,7 @@
 ### Lenguaje de programación
 - Java
 
-### IDE a  Utilizar
+### IDE utilizado
 - Android Studio
 
 ### Base de Datos
