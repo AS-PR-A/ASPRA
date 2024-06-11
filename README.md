@@ -4,7 +4,7 @@
 <div align="center">
   
 # 🐾 ASPRA 🐾
-![imagen](https://github.com/JDGA1997/ASPRA-Movil/assets/105946879/e1aedf58-d0d0-49da-8b61-d08e8a653fb6)
+![imagen](https://raw.githubusercontent.com/AS-PR-A/ASPRA-Web/main/Frontend/animalesCommerce/src/assets/img/ASPRA.png)
 
 <br>
 
@@ -12,18 +12,181 @@
 
 ## ⏩ 📱[Repositorio ASPRA Movil](https://github.com/AS-PR-A/ASPRA-Movil)📱 ⏪
 
+### Video estilo [Elevator Pitch](https://youtu.be/w3gHZfcjmjA) para las materias de Emprendedurismo - Tecnología y Desarrollo
+
+![imagen](https://github.com/AS-PR-A/ASPRA-Movil/assets/105946879/9da899cd-5e10-4808-b8dd-8dfb4c9ccf73)
+
 <br>
 
-## Integrantes  👩‍💻👨🏼‍💻
+<h1 align="center"> 
+  👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻
+</h1>
+<h3 align="center">Scrum Master</h3>
+    <dl>
+      <dd>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Comision</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+              <th>Linkedin</th>
+              <th>Portfolio</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td> Juan Diego González Antoniazzi </td>
+              <td> 2 </td>
+              <td> JDGA1997 </td>
+              <td>
+                <a href="https://github.com/JDGA1997">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in/jdga1997/">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+        </table>
+      </dd>
+    </dl>
+  </dd>
+  <dd>
+<dl>
+<dl>
+    <h3 align="center">Developer Team</h3>
+    <dl>
+      <dd>
+        <table align="center">
+          <thead>
+            <tr>
+              <th>Nombre y Apellido</th>
+              <th>Comision</th>
+              <th>Usuario en GitHub</th>
+              <th>GitHub</th>
+              <th>Linkedin</th>
+              <th>Portfolio</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td> Axel Ezequiel Montivero </td>
+              <td> 2 </td>
+              <td> Ezmant </td>
+              <td>
+                <a href="https://github.com/Ezmant">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in/">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Fabiana Jazmin Amato </td>
+              <td> 1 </td>
+              <td> AmatoJazmin </td>
+              <td>
+                <a href="https://github.com/AmatoJazmin">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in//">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Nicolás Mattos </td>
+              <td> 2 </td>
+              <td> NicolasMattos03 </td>
+              <td>
+                <a href="https://github.com/NicolasMattos03">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in/nicolas-mattos-164507243/">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Melanie Reyes </td>
+              <td> 3 </td>
+              <td> MelanieR24 </td>
+              <td>
+                <a href="https://github.com/MelanieR24">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in//">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td> Alejandro Moreno </td>
+              <td> 2 </td>
+              <td> MoCAlejandro </td>
+              <td>
+                <a href="https://github.com/MoCAlejandro">
+                  <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="https://www.linkedin.com/in//">
+                  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+                </a>
+              </td>
+              <td>
+                <a href="">
+                  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
+                </a>
+              </td>
+            </tr>
+            <tr>
+          </tbody>
+        </table>
+      </dd>
+    </dl>
+  </dd>
+  <dd>
 
-| Nombre          | Apellido            | GitHub                                                | Comision |       Rol       |
-|-----------------|---------------------|-------------------------------------------------------|----------|-----------------|
-| Juan Diego      | González Antoniazzi | [JDGA1997](https://github.com/JDGA1997)               |   2      |  Scrum Master   |
-| Axel Ezequiel   | Montivero           | [Ezmant](https://github.com/Ezmant)                   |   2      |    Developer    |
-| Fabiana Jazmin  |  Amato              | [AmatoJazmin](https://github.com/AmatoJazmin)         |   1      |    Developer    |
-| Nicolás         | Mattos              | [NicolasMattos03](https://github.com/NicolasMattos03) |   2      |    Developer    |
-| Melanie         | Reyes               | [MelanieR24](https://github.com/MelanieR24)           |   3      |    Developer    |
-| Alejandro       |     Moreno          | [MoCAlejandro](https://github.com/MoCAlejandro)       |   2      |    Developer    |
 
 <br>
 
